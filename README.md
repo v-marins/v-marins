@@ -1,6 +1,6 @@
 ![banner](https://github.com/v-marins/mundos-fantasticos/blob/master/imagens/120901073-f0febc00-c60e-11eb-9090-3a08df0684f8.gif?raw=true)
 
-<h1 align="center">Hey, tudo bem? Eu sou o Vinicius :brazil: </h1>
+<h1 align="center">Oi, tudo bom? :grin: Eu sou o Vinicius :brazil: </h1>
 <h3 align="center">Técnico de informática apaixonado por tecnologia. Estudante de programação, em busca de me tornar um dev fullstack.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v-marins&label=Profile%20views&color=0e75b6&style=flat" alt="v-marins" /> </p>
