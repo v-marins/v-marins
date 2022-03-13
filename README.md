@@ -13,6 +13,8 @@
 
 - 📫 Contato: **vmarins.dev@gmail.com**
 
+- :computer: Meu site: [https://v-marins.github.io/vmarins-landingpage/](https://v-marins.github.io/vmarins-landingpage/)
+
 - 📄 Meu currículo esta disponível em: [www.linkedin.com/in/viniciusmarins/](www.linkedin.com/in/viniciusmarins/)
 
 - ⚡ Curiosidades aleatórias sobre mim: **Sou músico, já toquei em 4 bandas e toco 5 instrumentos.**
