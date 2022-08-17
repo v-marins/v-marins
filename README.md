@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v-marins&label=Profile%20views&color=0e75b6&style=flat" alt="v-marins" /> </p>
 
-- 🌱 Atualmente eu estou estudando: **HTML, CSS, Javascript, Java, PostGreSQL e MySql.**
+- 🌱 Atualmente eu estou estudando: **HTML, CSS, Javascript, Java, Spring, PostGreSQL e MySql.**
 
 - 👨‍💻 Meus projetos estão disponíveis em: [www.github.com/v-marins](www.github.com/v-marins)
 
